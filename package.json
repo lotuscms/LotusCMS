@@ -1,0 +1,9 @@
+{
+  "name": "LotusCMS",
+  "version": "1.0.0",
+  "description": "Docker project for both frontend and backend services",
+  "main": "index.js",
+  "repository": "https://github.com/lotuscms/LotusCMS.git",
+  "author": "Casey Clayton <claytoncasey01@gmail.com>",
+  "license": "MIT"
+}
