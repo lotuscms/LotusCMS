@@ -61,4 +61,4 @@ typings/
 .next
 
 # Don't include testing config
-conf.template.json.*
+conf.template.json
